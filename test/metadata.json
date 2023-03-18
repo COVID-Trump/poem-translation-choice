@@ -1,0 +1,47 @@
+{
+    "translations": [
+        {
+            "raw": "raw/0001.txt",
+            "demo": "demo/0001-Kaleidoscoper.txt",
+            "metadata": {
+                "author": "Kaleido Scoper",
+                "link": "https://zhuanlan.zhihu.com/p/335725471"
+            }
+        },
+        {
+            "raw": "raw/0002.txt",
+            "demo": "demo/0002-touming.txt",
+            "metadata": {
+                "author": "骰出的名字",
+                "homepage": "https://www.mcbbs.net/?4982648",
+                "link": "https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=1404415&pid=27646408"
+            }
+        },
+        {
+            "raw": "raw/0003.txt",
+            "demo": "demo/0003-netease-1.txt",
+            "metadata": {
+                "author": "NetEase",
+                "link": "https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=1404415&pid=27646474"
+            }
+        },
+        {
+            "raw": "raw/0004.txt",
+            "demo": "demo/0004-netease-2.txt",
+            "metadata": {
+                "author": "NetEase",
+                "link": "https://www.mcbbs.net/forum.php?mod=redirect&goto=findpost&ptid=1404415&pid=27647522"
+            }
+        },
+        {
+            "raw": "raw/0005.txt",
+            "demo": "demo/0005-miemiemethod.txt",
+            "metadata": {
+                "author": "Miemiemethod",
+                "homepage": "https://minecraft.fandom.com/zh/wiki/User:Miemiemethod",
+                "link": "https://minecraft.fandom.com/zh/wiki/User:Miemiemethod/End_Poem",
+                "license": "CC-BY-SA 3.0"
+            }
+        }
+    ]
+} 
